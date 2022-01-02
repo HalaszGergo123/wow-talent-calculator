@@ -1,7 +1,7 @@
-# Classic Talent Calculator
+# WoW Talent Calculator
 ## Privacy Policy
 
-Halasz Gergo built the Classic Talent Calculator app as a Commercial app. This SERVICE is provided by Halasz Gergo and is intended for use as is.
+Halasz Gergo built the WoW Talent Calculator app as a Commercial app. This SERVICE is provided by Halasz Gergo and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
